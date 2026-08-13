@@ -33,7 +33,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🧱 **SaaS e sistemas de alta escala** — Sistemas multiusuário<br>- ⚡ **Otimização de desempenho** — Cache e sincronização de dados com TanStack Query; build otimizado com Vite<br>- 🧩 **Arquitetura limpa e design de sistemas** — Clean Architecture em camadas (telas → hooks → services → lib), UI desacoplada do banco<br>- 🔒 **APIs seguras e autenticação** — Auth com 2FA e OAuth Google (Supabase/GoTrue), RLS no Postgres, captcha Cloudflare Turnstile<br>- ⚙️ **Automação e integrações** — Backup automatizado em .zip (JSZip), exportação de PDF (@react-pdf/renderer), APIs REST com Express<br>- 📊 **Painéis e análises** — Dashboards e gráficos com Recharts, testes com Vitest + Testing Library</p>
+<p data-importer="text" align="left">- 🧱 SaaS e sistemas de alta escala — Sistemas multiusuário<br>- ⚡ Otimização de desempenho — Cache e sincronização de dados com TanStack Query; build otimizado com Vite<br>- 🧩 Arquitetura limpa e design de sistemas — Clean Architecture em camadas (telas → hooks → services → lib), UI desacoplada do banco<br>- 🔒 APIs seguras e autenticação — Auth com 2FA e OAuth Google (Supabase/GoTrue), RLS no Postgres, captcha Cloudflare Turnstile<br>- ⚙️ Automação e integrações — Backup automatizado em .zip (JSZip), exportação de PDF (@react-pdf/renderer), APIs REST com Express<br>- 📊 Painéis e análises — Dashboards e gráficos com Recharts, testes com Vitest + Testing Library</p>
 
 ###
 
