@@ -19,7 +19,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/júlio-césar-aaa42328a?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+  <a href="https://www.linkedin.com/in/juliocesarel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/juliocesar_790?igsh=Z25rbDBlMzRuOXl3&utm_source=qr" target="_blank">
