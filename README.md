@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/juliocesarel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/juliocesar_790?igsh=Z25rbDBlMzRuOXl3&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/risenstudio.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -33,7 +33,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🧱 Sistemas de alta escala — Sistemas multiusuário<br>- ⚡ Otimização de desempenho — Cache e sincronização de dados com TanStack Query; build otimizado com Vite<br>- 🧩 Arquitetura limpa e design de sistemas — Clean Architecture em camadas (telas → hooks → services → lib), UI desacoplada do banco<br>- 🔒 APIs seguras e autenticação — Auth com 2FA e OAuth Google (Supabase/GoTrue), RLS no Postgres, captcha Cloudflare Turnstile<br>- ⚙️ Automação e integrações — Backup automatizado em .zip (JSZip), exportação de PDF (@react-pdf/renderer), APIs REST com Express<br>- 📊 Painéis e análises — Dashboards e gráficos com Recharts, testes com Vitest + Testing Library</p>
+<p data-importer="text" align="left">- 🧱 Sistemas Web e Sites de alta escala<br>- ⚡ Otimização de desempenho<br>- 🧩 Arquitetura limpa e design de sistemas<br>- 🔒 APIs seguras e autenticação/permissão<br>- ⚙️ Automação e integrações<br>- 📊 Painéis e análises</p>
 
 ###
 
